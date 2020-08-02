@@ -1,4 +1,4 @@
-package slackWatcher
+package slackTracker
 
 import (
 	"fmt"
